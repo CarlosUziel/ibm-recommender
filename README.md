@@ -17,7 +17,6 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#premise">Premise</a></li>
-        <li><a href="#execution-plan">Execution Plan</a></li>
         <li><a href="#data">Data</a></li>
         <li><a href="#challenges-and-improvements">Challenges and improvements</a></li>
       </ul>
@@ -92,12 +91,15 @@ Install environment using provided file:
 
 ```bash
 mamba env create -f environment.yml # alternatively use environment_hist.yml if base system is not debian
-mamba activate disaster_response
+mamba activate ibm_recommender
 ```
 
 ### Usage
 
-Simply follow along the main notebook. Use either the Jupyter Notebook (`notebooks/Recommendations_with_IBM.ipynb`) or its HTMl version (`notebooks/Recommendations_with_IBM.html`).
+Simply follow along the main notebook. Use either:
+
+- The Jupyter Notebook: `notebooks/Recommendations_with_IBM.ipynb`.
+- Or its HTML version: `notebooks/Recommendations_with_IBM.html`.
 
 ### File descriptions
 
