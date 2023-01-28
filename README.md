@@ -5,7 +5,7 @@
 <div align="center">
   <img src="images/dashboard.png" alt="Web App" width="700" height="350">
 
-  <h3 align="center">Making recommendations of articles to IBM Watson Studio users</h3>
+  <h3 align="center">Making recommendations to users of the IBM Watson Studio</h3>
 
 </div>
 
