@@ -49,7 +49,7 @@ In the IBM Watson Studio, there is a large collaborative community ecosystem of 
 
 ### Data
 
-This project uses disaster data from [Appen](https://appen.com/) (formerly Figure 8) to build a model for an API that classifies disaster messages. Data is split into two datasets:
+This project handles data provided by IBM, related to its IBM Watson Platform. More concretely, two datasets are employed:
 
 - **User-item Interactions**: Contains article_id, title and email. These are the articles that have been accessed or viewed by users.
 - **Articles content**: Contains the contents of a subset of the articles in the _User-item Interactions_ dataset.
